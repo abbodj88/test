@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<layouttype>list</layouttype>
+
+<channels>
+
+<channel>
+<name>GROUP A            PLD        W        D        L        PTS</name>
+<thumbnail></thumbnail>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Teamblue65/Kodi-plugin-video/master/plugin.video.teamblue</externallink>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>FRANCE                0             0        0        0         0</name>
+<thumbnail></thumbnail>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Teamblue65/Kodi-plugin-video/master/plugin.video.teamblue</externallink>
+<fanart></fanart>
+</channel>
+
+</channels>
